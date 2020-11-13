@@ -1,0 +1,12 @@
+C:\Users\Marcu\source\repos\Prague-Parking\Prague-Parking-1.2\bin\Debug\netcoreapp3.1\Prague-Parking-1.1.exe
+C:\Users\Marcu\source\repos\Prague-Parking\Prague-Parking-1.2\bin\Debug\netcoreapp3.1\Prague-Parking-1.1.deps.json
+C:\Users\Marcu\source\repos\Prague-Parking\Prague-Parking-1.2\bin\Debug\netcoreapp3.1\Prague-Parking-1.1.runtimeconfig.json
+C:\Users\Marcu\source\repos\Prague-Parking\Prague-Parking-1.2\bin\Debug\netcoreapp3.1\Prague-Parking-1.1.runtimeconfig.dev.json
+C:\Users\Marcu\source\repos\Prague-Parking\Prague-Parking-1.2\bin\Debug\netcoreapp3.1\Prague-Parking-1.1.dll
+C:\Users\Marcu\source\repos\Prague-Parking\Prague-Parking-1.2\bin\Debug\netcoreapp3.1\Prague-Parking-1.1.pdb
+C:\Users\Marcu\source\repos\Prague-Parking\Prague-Parking-1.2\obj\Debug\netcoreapp3.1\Prague-Parking-1.1.AssemblyInfoInputs.cache
+C:\Users\Marcu\source\repos\Prague-Parking\Prague-Parking-1.2\obj\Debug\netcoreapp3.1\Prague-Parking-1.1.AssemblyInfo.cs
+C:\Users\Marcu\source\repos\Prague-Parking\Prague-Parking-1.2\obj\Debug\netcoreapp3.1\Prague-Parking-1.1.csproj.CoreCompileInputs.cache
+C:\Users\Marcu\source\repos\Prague-Parking\Prague-Parking-1.2\obj\Debug\netcoreapp3.1\Prague-Parking-1.1.dll
+C:\Users\Marcu\source\repos\Prague-Parking\Prague-Parking-1.2\obj\Debug\netcoreapp3.1\Prague-Parking-1.1.pdb
+C:\Users\Marcu\source\repos\Prague-Parking\Prague-Parking-1.2\obj\Debug\netcoreapp3.1\Prague-Parking-1.1.genruntimeconfig.cache
